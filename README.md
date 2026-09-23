@@ -71,19 +71,6 @@ It does not include external factors such as price, promotions, product availabi
 
 The candidate set is also limited to products the customer has purchased previously, so the model does not attempt to predict completely new products that a customer has never bought before.
 
-## Repository Structure
-
-```text
-instacart-market-basket/
-├── data/
-│   ├── df_train.parquet
-│   └── README.md
-├── sql/
-│   └── instacart.sql
-├── instacart_market_basket.ipynb
-└── README.md
-```
-
 ### Files
 
 * `instacart_market_basket.ipynb` — full feature engineering, modelling, evaluation, and analysis.
