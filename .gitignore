@@ -1,0 +1,9 @@
+# Large local data file
+data/prior.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
